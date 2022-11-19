@@ -1,0 +1,12 @@
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\Resim_Düzenleme.csproj.AssemblyReference.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\Resim_Düzenleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\Resim_Düzenleme.Properties.Resources.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\Resim_Düzenleme.csproj.GenerateResource.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\Resim_Düzenleme.csproj.CoreCompileInputs.cache

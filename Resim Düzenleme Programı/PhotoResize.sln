@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoResize", "PhotoResize\PhotoResize.csproj", "{FDA78358-0893-40A3-B66B-6B511A39D5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA78358-0893-40A3-B66B-6B511A39D5A7}.Debug|x86.ActiveCfg = Debug|x86
+		{FDA78358-0893-40A3-B66B-6B511A39D5A7}.Debug|x86.Build.0 = Debug|x86
+		{FDA78358-0893-40A3-B66B-6B511A39D5A7}.Release|x86.ActiveCfg = Release|x86
+		{FDA78358-0893-40A3-B66B-6B511A39D5A7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {007A7882-8462-4741-ACE0-415C2C08EAC0}
+	EndGlobalSection
+EndGlobal

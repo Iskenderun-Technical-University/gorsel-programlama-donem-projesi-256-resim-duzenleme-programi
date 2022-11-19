@@ -1,0 +1,138 @@
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+D:\Belgelerim\PalasIstanbul\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+D:\Belgelerim\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+D:\Belgelerim\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.About.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.About.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+D:\Belgelerim\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.About.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Cem\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.About.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ÖNAL\Desktop\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.About.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bilal\Downloads\PhotoResize\PhotoResize\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.csproj.AssemblyReference.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.csproj.GenerateResource.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\Selman\Desktop\resimduzenle\PhotoResize\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.AssemblyReference.cache
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.GenerateResource.cache
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\Selman\Desktop\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.AssemblyReference.cache
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.VeriCek.resources
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.GenerateResource.cache
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.pdb
