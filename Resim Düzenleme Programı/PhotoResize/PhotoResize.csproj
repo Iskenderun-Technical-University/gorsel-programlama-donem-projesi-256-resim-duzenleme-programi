@@ -113,6 +113,12 @@
       <DependentUpon>Resize.cs</DependentUpon>
     </Compile>
     <Compile Include="Services\PhotoColorService.cs" />
+    <Compile Include="VeriCek.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VeriCek.Designer.cs">
+      <DependentUpon>VeriCek.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AddText.resx">
       <DependentUpon>AddText.cs</DependentUpon>
     </EmbeddedResource>
@@ -143,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Resize.resx">
       <DependentUpon>Resize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VeriCek.resx">
+      <DependentUpon>VeriCek.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="Properties\Settings.settings">

@@ -63,6 +63,7 @@
             this.tersCevirToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.opaklikAyarlaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.parlaklıkAyarlaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.veriTabanıToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lblW = new System.Windows.Forms.Label();
             this.lblH = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -72,6 +73,7 @@
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.buttonVeritabanınaEkle = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -114,7 +116,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.dosyaToolStripMenuItem,
             this.düzenleToolStripMenuItem,
-            this.resimToolStripMenuItem});
+            this.resimToolStripMenuItem,
+            this.veriTabanıToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(682, 28);
@@ -134,7 +137,7 @@
             this.çıkışToolStripMenuItem});
             this.dosyaToolStripMenuItem.Name = "dosyaToolStripMenuItem";
             this.dosyaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Q)));
-            this.dosyaToolStripMenuItem.Size = new System.Drawing.Size(64, 26);
+            this.dosyaToolStripMenuItem.Size = new System.Drawing.Size(64, 24);
             this.dosyaToolStripMenuItem.Text = "Dosya";
             // 
             // açToolStripMenuItem
@@ -202,14 +205,14 @@
             this.toolStripSeparator3,
             this.temizleToolStripMenuItem});
             this.düzenleToolStripMenuItem.Name = "düzenleToolStripMenuItem";
-            this.düzenleToolStripMenuItem.Size = new System.Drawing.Size(77, 26);
+            this.düzenleToolStripMenuItem.Size = new System.Drawing.Size(77, 24);
             this.düzenleToolStripMenuItem.Text = "Düzenle";
             // 
             // geriAlToolStripMenuItem
             // 
             this.geriAlToolStripMenuItem.Name = "geriAlToolStripMenuItem";
             this.geriAlToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Z)));
-            this.geriAlToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.geriAlToolStripMenuItem.Size = new System.Drawing.Size(188, 26);
             this.geriAlToolStripMenuItem.Text = "Geri Al";
             this.geriAlToolStripMenuItem.Click += new System.EventHandler(this.geriAlToolStripMenuItem_Click);
             // 
@@ -217,19 +220,19 @@
             // 
             this.ileriAlToolStripMenuItem.Name = "ileriAlToolStripMenuItem";
             this.ileriAlToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Y)));
-            this.ileriAlToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.ileriAlToolStripMenuItem.Size = new System.Drawing.Size(188, 26);
             this.ileriAlToolStripMenuItem.Text = "İleri Al";
             this.ileriAlToolStripMenuItem.Click += new System.EventHandler(this.ileriAlToolStripMenuItem_Click);
             // 
             // toolStripSeparator3
             // 
             this.toolStripSeparator3.Name = "toolStripSeparator3";
-            this.toolStripSeparator3.Size = new System.Drawing.Size(221, 6);
+            this.toolStripSeparator3.Size = new System.Drawing.Size(185, 6);
             // 
             // temizleToolStripMenuItem
             // 
             this.temizleToolStripMenuItem.Name = "temizleToolStripMenuItem";
-            this.temizleToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.temizleToolStripMenuItem.Size = new System.Drawing.Size(188, 26);
             this.temizleToolStripMenuItem.Text = "Temizle";
             this.temizleToolStripMenuItem.Click += new System.EventHandler(this.temizleToolStripMenuItem_Click);
             // 
@@ -242,7 +245,7 @@
             this.opaklikAyarlaToolStripMenuItem1,
             this.parlaklıkAyarlaToolStripMenuItem});
             this.resimToolStripMenuItem.Name = "resimToolStripMenuItem";
-            this.resimToolStripMenuItem.Size = new System.Drawing.Size(63, 26);
+            this.resimToolStripMenuItem.Size = new System.Drawing.Size(63, 24);
             this.resimToolStripMenuItem.Text = "Resim";
             // 
             // boyutunuDegistirToolStripMenuItem
@@ -354,6 +357,13 @@
             this.parlaklıkAyarlaToolStripMenuItem.Text = "Parlaklık Ayarla";
             this.parlaklıkAyarlaToolStripMenuItem.Click += new System.EventHandler(this.parlaklıkAyarlaToolStripMenuItem_Click);
             // 
+            // veriTabanıToolStripMenuItem
+            // 
+            this.veriTabanıToolStripMenuItem.Name = "veriTabanıToolStripMenuItem";
+            this.veriTabanıToolStripMenuItem.Size = new System.Drawing.Size(95, 24);
+            this.veriTabanıToolStripMenuItem.Text = "Veri Tabanı";
+            this.veriTabanıToolStripMenuItem.Click += new System.EventHandler(this.veriTabanıToolStripMenuItem_Click);
+            // 
             // lblW
             // 
             this.lblW.AutoSize = true;
@@ -417,11 +427,23 @@
             this.pictureBox1.TabIndex = 3;
             this.pictureBox1.TabStop = false;
             // 
+            // buttonVeritabanınaEkle
+            // 
+            this.buttonVeritabanınaEkle.Location = new System.Drawing.Point(253, 575);
+            this.buttonVeritabanınaEkle.Margin = new System.Windows.Forms.Padding(4);
+            this.buttonVeritabanınaEkle.Name = "buttonVeritabanınaEkle";
+            this.buttonVeritabanınaEkle.Size = new System.Drawing.Size(142, 48);
+            this.buttonVeritabanınaEkle.TabIndex = 17;
+            this.buttonVeritabanınaEkle.Text = "Veritabanına Ekle";
+            this.buttonVeritabanınaEkle.UseVisualStyleBackColor = true;
+            this.buttonVeritabanınaEkle.Click += new System.EventHandler(this.buttonVeritabanınaEkle_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(682, 653);
+            this.Controls.Add(this.buttonVeritabanınaEkle);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.lblDosya);
             this.Controls.Add(this.label3);
@@ -494,6 +516,8 @@
         private System.Windows.Forms.ToolStripMenuItem parlaklıkAyarlaToolStripMenuItem;
         public System.Windows.Forms.ToolStripMenuItem geriAlToolStripMenuItem;
         public System.Drawing.Printing.PrintDocument printDocument1;
+        private System.Windows.Forms.ToolStripMenuItem veriTabanıToolStripMenuItem;
+        private System.Windows.Forms.Button buttonVeritabanınaEkle;
     }
 }
 

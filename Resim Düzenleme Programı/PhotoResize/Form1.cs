@@ -364,6 +364,34 @@ namespace PhotoResize
 
         }
 
-
+        private void veriTabanıToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VeriCek frm = new VeriCek();
+            frm.Show();
+        }
+        string imagepath;
+        private void buttonVeritabanınaEkle_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                pictureBox1.ImageLocation = saveFileDialog1.FileName;
+                imagepath = pictureBox1.ImageLocation;
+                FileStream filestream = new FileStream(imagepath, FileMode.Open, FileAccess.Read);
+                BinaryReader reader = new BinaryReader(filestream);
+                byte[] resim = reader.ReadBytes((int)filestream.Length);
+                reader.Close();
+                filestream.Close();
+                con.Open();
+                SqlCommand komut = new SqlCommand("insert into Resimler(images) values(@images)", con);
+                komut.Parameters.Add("@images", SqlDbType.Image, resim.Length).Value = resim;
+                komut.ExecuteNonQuery();
+                con.Close();
+                MessageBox.Show("Resim Veritabanına Eklendi", "Kayıt", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch
+            {
+                MessageBox.Show("Önce Resmi Kaydedin");
+            }
+        }
     }
 }

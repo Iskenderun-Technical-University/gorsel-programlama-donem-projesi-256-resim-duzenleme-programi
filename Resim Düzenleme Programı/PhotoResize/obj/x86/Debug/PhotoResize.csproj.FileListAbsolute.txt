@@ -136,3 +136,21 @@ C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoRes
 C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.csproj.CoreCompileInputs.cache
 C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.exe
 C:\Users\Selman\Documents\GitLap\myproje\3. Hafta Resim Editleme Ödevi\PhotoResize\obj\x86\Debug\PhotoResize.pdb
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\bin\Debug\PhotoResize.exe.config
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\bin\Debug\PhotoResize.exe
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\bin\Debug\PhotoResize.pdb
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.csproj.AssemblyReference.cache
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.csproj.SuggestedBindingRedirects.cache
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.AddText.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.Brightness.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.Form1.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.Opacity.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.PrintPhoto.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.Properties.Resources.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.QualityForm.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.Resize.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.VeriCek.resources
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.csproj.GenerateResource.cache
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.csproj.CoreCompileInputs.cache
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.exe
+C:\Users\Selman\Documents\GitLap\gorsel-programlama-donem-projesi-256-resim-duzenleme-programi\Resim Düzenleme Programı\PhotoResize\obj\x86\Debug\PhotoResize.pdb
