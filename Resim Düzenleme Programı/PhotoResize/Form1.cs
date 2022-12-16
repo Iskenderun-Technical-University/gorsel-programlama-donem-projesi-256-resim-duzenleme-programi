@@ -393,5 +393,138 @@ namespace PhotoResize
                 MessageBox.Show("Önce Resmi Kaydedin");
             }
         }
+
+        private void buttonBirlestirmekIcinGonder_Click(object sender, EventArgs e)
+        {
+            if (pictureBox1.Image != null)
+            {
+                if (pictureBox2.Image == null)
+                {
+                    pictureBox2.Image = pictureBox1.Image;
+                }
+                else if (pictureBox3.Image == null)
+                {
+                    pictureBox3.Image = pictureBox1.Image;
+                }
+                else if (pictureBox4.Image == null)
+                {
+                    pictureBox4.Image = pictureBox1.Image;
+                }
+                else if (pictureBox5.Image == null)
+                {
+                    pictureBox5.Image = pictureBox1.Image;
+                }
+                else
+                {
+                    MessageBox.Show("Resim Kutuları Dolu");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Önce Resim Seçiniz.");
+            }
+        }
+
+        private void buttonBirlestir_Click(object sender, EventArgs e)
+        {
+            if (pictureBox2.Image != null || pictureBox3.Image != null || pictureBox4.Image != null || pictureBox5.Image != null)
+            {
+                pictureBox1.Image = null;
+                pictureBox1.Image = new Bitmap(608, 458);
+                using (var g = Graphics.FromImage(pictureBox1.Image))
+                {
+                    if (pictureBox5.Image != null)
+                    {
+                        g.Clear(Color.White);
+                        g.DrawImage(pictureBox2.Image, 0, 0, 304, 229);
+                        g.DrawImage(pictureBox3.Image, 304, 0, 304, 229);
+                        g.DrawImage(pictureBox4.Image, 0, 229, 304, 229);
+                        g.DrawImage(pictureBox5.Image, 304, 229, 304, 229);
+                    }
+                    else if (pictureBox4.Image != null)
+                    {
+                        g.Clear(Color.White);
+                        g.DrawImage(pictureBox2.Image, 0, 0, 304, 229);
+                        g.DrawImage(pictureBox3.Image, 304, 0, 304, 229);
+                        g.DrawImage(pictureBox4.Image, 0, 229, 304, 229);
+                    }
+                    else if (pictureBox3.Image != null)
+                    {
+                        g.Clear(Color.White);
+                        g.DrawImage(pictureBox2.Image, 0, 0, 304, 229);
+                        g.DrawImage(pictureBox3.Image, 304, 0, 304, 229);
+                    }
+                    else
+                    {
+                        MessageBox.Show("Zaten Tek Resim Var.");
+                    }
+
+                }
+            }
+            else
+            {
+                MessageBox.Show("Birleştirilecek Resim Yok");
+            }
+        }
+
+        private void buttonSonEklenenResmiSil_Click(object sender, EventArgs e)
+        {
+            if (pictureBox2.Image != null || pictureBox3.Image != null || pictureBox4.Image != null || pictureBox5.Image != null)
+            {
+                if (pictureBox5.Image != null)
+                {
+                    pictureBox5.Image = null;
+                }
+                else if (pictureBox4.Image != null)
+                {
+                    pictureBox4.Image = null;
+                }
+                else if (pictureBox3.Image != null)
+                {
+                    pictureBox3.Image = null;
+                }
+                else if (pictureBox2.Image != null)
+                {
+                    pictureBox2.Image = null;
+                }
+            }
+            else
+            {
+                MessageBox.Show("Silinecek Resim Yok");
+            }
+        }
+
+        private void buttonSunucuyaGonder_Click(object sender, EventArgs e)
+        {
+            try
+            {
+
+                FileInfo DosyaBilgisi = new FileInfo(saveFileDialog1.FileName);
+                string FtpAdresi = textBoxServer.Text + "/" + DosyaBilgisi.Name;
+                FtpWebRequest FtpIstek = (FtpWebRequest)FtpWebRequest.Create(new Uri(FtpAdresi));
+                FtpIstek.Credentials = new NetworkCredential(textBoxKullaniciAdi.Text, textBoxSifre.Text);
+                FtpIstek.KeepAlive = false;
+                FtpIstek.Method = WebRequestMethods.Ftp.UploadFile;
+                FtpIstek.UseBinary = true;
+                FtpIstek.ContentLength = DosyaBilgisi.Length;
+                int BufferUzunlugu = 2048;
+                byte[] buff = new byte[10000000];
+                int sayi;
+                FileStream stream = DosyaBilgisi.OpenRead();
+                Stream str = FtpIstek.GetRequestStream();
+                sayi = stream.Read(buff, 0, BufferUzunlugu);
+                while (sayi != 0)
+                {
+                    str.Write(buff, 0, sayi);
+                    sayi = stream.Read(buff, 0, BufferUzunlugu);
+                }
+                str.Close();
+                stream.Close();
+            }
+            catch
+            {
+                MessageBox.Show("Önce resmi kaydedin ve girdiğiniz bilgilerin doğru olduğunundan emin olun.");
+            }
+        }
     }
 }
